@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main() {
+int a,b;
+scanf("Enter value of a:");
+scanf("Enter value of b:");
+printf("Addition of %d and %d is %d",a,b,(a+b));
+}
